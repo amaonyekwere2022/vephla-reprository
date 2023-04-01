@@ -1,0 +1,170 @@
+/*---contact-container----*/
+
+input {
+    position:relative;
+background:white;
+    padding-left: 130px;
+    padding-right: 180px;
+    padding-bottom: 5px;
+    margin-bottom: 90px;
+    margin-top: 50px;
+    border-radius: 16px;
+    color:black;
+    padding-top: 20px;
+    left: 50px;
+    border: none;
+}
+#input-field{
+    position: relative;
+    margin-right: 750px;
+    margin-left: 30px;
+margin-top: -30px;
+    padding-left: 2px;
+    top: 5px;
+    left: -10px;
+}
+p0{
+    position: absolute;
+    padding-left: 55px;
+    padding-top: 45px;
+    padding-bottom: 60px;
+    padding-right: 75px;
+    margin-right: 75px;
+}
+
+#input-field .bord{
+    padding-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+padding-right: 60px;
+}
+
+
+p1{
+
+    position: absolute;
+    padding-left: 40px;
+    padding-top: 115px;
+    padding-bottom: 60px;
+    padding-right: 75px;
+    margin-right: 75px;
+    margin-left: -465px;
+
+}
+
+
+.bord1{
+    position: relative;
+ margin-top: -90px;
+ border-radius: 16px;
+
+}
+
+    p2{
+
+        position: absolute;
+        padding-left: 90px;
+        padding-top: -30px;
+        padding-bottom: 80px;
+        padding-right: 75px;
+        margin-right: 75px;
+        margin-left: -280px;
+        margin-top: -65px;  
+    }
+
+
+    .bord2{
+        position: absolute;
+     margin-top: -95px;
+     margin-left: 5px;
+     width: 486px;
+     height: 48px;
+     padding-right:400px;
+     padding-top: 10px;
+     color: white;
+     box-sizing: border-box;
+     font-family: Arial, Helvetica, sans-serif;
+    }
+   
+    #menu-5 li a{
+        width: 100px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height: 24px;
+    font-size: 13px;
+    list-style: none;
+    text-align: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight:500;
+    }
+    #menu-5  a{
+        width: 90px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        height: 24px;
+        color: red;
+        background-color: white;
+        list-style: none;
+        font-family: 'Poppins';
+        text-align: center;
+        font-style: normal;
+        font-weight: 400px;
+        font-size: 16px;
+        line-height: 24px
+    }    
+   
+    .find {
+        position: absolute;
+        border-radius: 24px;
+        margin-left: 70px;
+        top: 380px;
+        left: 90px;
+        list-style: none;
+        margin-top: -3px;
+   
+    }
+   
+    .find li a {
+        border-radius: 16px;
+        margin-left: 40px;
+        text-decoration: none;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+   
+    }
+   
+    #menu-5  :hover{
+        color: blue;
+    }
+   
+    .logo-vector img{
+        position: absolute;
+    width: 600px;
+    height: 450px;
+    left: 650px;
+    top: -100px;
+    }
+   
+   
+    .form-container{
+        position: absolute;
+    width:-1233px;
+    height: 500px;
+    left: 2px;
+    top: 40px;
+    background: #E95948;
+    }
+   
+   
+   
+    .Contact-container {
+        background: #E95948;;
+        height: 700px;
+        color:white;
+        width: 1400px;
+       
+    }
+
+   
+   

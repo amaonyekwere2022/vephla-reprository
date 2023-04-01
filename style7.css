@@ -1,0 +1,29 @@
+/*---Team-container----*/
+
+.circle{
+    width: 250px;
+    height: 250px;
+    background: white;
+    border-radius: 50%;
+    margin-left: 125px;
+    box-shadow: 0px 4px 4px #E95948
+}
+.circle-1{
+    width: 250px;
+    height: 250px;
+    background: white;
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    box-shadow: 0px 4px 4px #E95948
+}
+
+
+.Team-container{
+    background-color:rgb(252, 198, 198);
+    height: 606px;
+    width:-1233px;
+    padding-bottom: 5px;
+
+}

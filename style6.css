@@ -1,0 +1,39 @@
+/*---Product-container----*/
+
+
+#Product-text{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-bottom: 40px;
+    padding-top: 5px;
+    }
+   
+    #rectangle-color{
+        width: 300px;
+        height: 350px;
+          padding-right: 100px;
+          margin-left: 70px;
+          margin-top: 50px;
+          margin-bottom: 0px;
+          background-color: #E95948;
+        }
+        #rectangle-color1{
+            width: 300px;
+            height: 350px;
+              padding-right: 110px;
+              margin-left: 420px;
+              margin-top: 0px;
+              background-color: #E95948;
+        }
+       
+        #rectangle-color2{
+            width: 300px;
+    height: 350px;
+      padding-right: 80px;
+      margin-left: 430px;
+      margin-top: 0px;
+      background-color: #E95948;
+}
+#Product-container{
+    background-color:whitesmoke;
+    height: 550px;
+}
